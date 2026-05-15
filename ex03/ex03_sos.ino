@@ -1,7 +1,7 @@
 const int ledPin = 2;
 
 // 时间定义（单位：ms）
-const unsigned long shortOn = 200;
+const unsigned long shortOn = 150;
 const unsigned long shortOff = 200;
 const unsigned long longOn = 600;
 const unsigned long longOff = 200;
